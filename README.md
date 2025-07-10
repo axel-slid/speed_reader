@@ -24,4 +24,3 @@ Feel free to submit PRs for additional shortcuts, themes, or bug-fixes!
 
 ---
 
-Happy speed-reading! 📚⚡
